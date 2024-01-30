@@ -1,2 +1,2 @@
 # Learning HTML5 and CSS3
-Here you'll find some code from my progression in learning html and css.
+Here you'll find some code exercises or simpler projects from my progression in learning HTML and CSS.
